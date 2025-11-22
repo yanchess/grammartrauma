@@ -73,3 +73,58 @@
 .read-more:hover {
     text-decoration: underline;
 }
+
+/* 404 Page Styling */
+.not-found {
+    text-align: center;
+    padding: 3rem 1rem;
+}
+
+.not-found h1 {
+    font-size: 8rem;
+    font-weight: 900;
+    color: var(--primary);
+    margin: 0;
+    line-height: 1;
+}
+
+.not-found h2 {
+    font-size: 2rem;
+    margin: 1rem 0;
+}
+
+.not-found p {
+    color: var(--secondary);
+    font-size: 1.1rem;
+    margin: 1rem auto;
+    max-width: 600px;
+}
+
+.not-found-suggestions {
+    margin-top: 2rem;
+}
+
+.not-found-suggestions h3 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.not-found-suggestions ul {
+    list-style: none;
+    padding: 0;
+}
+
+.not-found-suggestions li {
+    margin: 0.75rem 0;
+}
+
+.not-found-suggestions a {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.not-found-suggestions a:hover {
+    text-decoration: underline;
+}

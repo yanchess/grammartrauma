@@ -11,3 +11,8 @@ command = """\
   git config core.quotepath false && \
   hugo --gc --minify --baseURL "${URL}"
   """
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404

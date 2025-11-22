@@ -16,7 +16,7 @@ I believe that documentation deserves the same respect as the products it repres
 
 ## Contacts
 
-Let's talk docs on [LinkedIn](https://www.linkedin.com/in/yana-romaniuk-28184a1b6/) or over [email](mailto:iana.romaniuk@gmail.com).
+Let's talk docs on [LinkedIn](https://www.linkedin.com/in/yromaniuk/) or over [email](mailto:iana.romaniuk@gmail.com).
 
 ## About this site
 

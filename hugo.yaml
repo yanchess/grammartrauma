@@ -1,4 +1,4 @@
-baseURL: https://dramacomma.netlify.app/
+baseURL: https://grammartrauma.netlify.app/
 languageCode: en-us
 title: "Yana Romaniuk"
 pagination:
@@ -40,7 +40,7 @@ params:
       
   socialIcons:
     - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/yana-romaniuk-28184a1b6/"
+      url: "https://www.linkedin.com/in/yromaniuk/"
     - name: "GitHub"
       url: "https://github.com/yanchess"
 
